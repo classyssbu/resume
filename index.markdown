@@ -8,10 +8,11 @@ This will be stuff about me...
 ###SCHOOL
 
 ## Employment
-###CREATIVE DIRECTOR, GOOGLE
+###CREATIVE DIRECTOR, [GOOGLE](www.google.com)
 
 ## Projects
 ###Google
 
 ## Contact Me
 ###creativedirector@google.com
+
