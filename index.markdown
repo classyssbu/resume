@@ -1,18 +1,18 @@
 # Michael Grosso Resume
 
-##About Me
+## About Me
 
 This will be stuff about me...
 
 ## Education
-###Humber College
+### Humber College
 
 ## Employment
-###CREATIVE DIRECTOR, [GOOGLE](https//www.google.com)
+### CREATIVE DIRECTOR, [GOOGLE] (https//www.google.com)
 
 ## Projects
-###Google
+### Google
 
 ## Contact Me
-###creativedirector@google.com
+### creativedirector@google.com
 
