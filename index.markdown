@@ -5,7 +5,7 @@
 This will be stuff about me...
 
 ## Education
-###SCHOOL
+###Humber College
 
 ## Employment
 ###CREATIVE DIRECTOR, [GOOGLE](https//www.google.com)
