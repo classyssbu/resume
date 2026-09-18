@@ -8,7 +8,7 @@ This will be stuff about me...
 ### Humber College
 
 ## Employment
-### CREATIVE DIRECTOR, [GOOGLE] (https//www.google.com)
+### CREATIVE DIRECTOR, [GOOGLE] (https://www.google.com)
 
 ## Projects
 ### Google
