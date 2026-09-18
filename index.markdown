@@ -5,9 +5,13 @@
 This will be stuff about me...
 
 ## Education
+###SCHOOL
 
 ## Employment
+###CREATIVE DIRECTOR, GOOGLE
 
 ## Projects
+###Google
 
 ## Contact Me
+###creativedirector@google.com
